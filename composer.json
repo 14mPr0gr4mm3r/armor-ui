@@ -1,0 +1,20 @@
+{
+    "name": "14mpr0gr4mm3r/armor-ui",
+    "description": "An UI library to extend the Armor framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gustavo Sampaio (14mPr0gr4mm3r)",
+            "role": "Developer"
+        }
+    ],
+    "scripts": {},
+    "keywords": ["armor-lib", "extension", "ui", "ui-library", "views", "components"],
+    "require": {
+        "php": "^7.3"
+    },
+    "autoload": {
+        "ArmorUI\\": "src/"
+    }
+}
