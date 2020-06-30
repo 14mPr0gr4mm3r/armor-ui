@@ -10,7 +10,7 @@
         }
     ],
     "scripts": {},
-    "keywords": ["armor-lib", "extension", "ui", "ui-library", "views", "components"],
+    "keywords": ["php", "armor-lib", "extension", "ui", "views", "components", "armor-ui"],
     "require": {
         "php": "^7.3"
     },
